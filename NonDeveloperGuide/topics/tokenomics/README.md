@@ -14,7 +14,7 @@ Incentive for DApps to use Elastos does not come from an incentive to use the El
 
 ### Utilities of ELA
 
-* In the current internet of today, there are over 300 million domain names registered. In the new elastos internet, all elastos web DApps will need to pay for domain name services using ELA. These domain names are like digital assets that can be resold to other people as well
+* There are over 300 million domain names currently registered on the internet. In the new elastos internet, all elastos web DApps will need to pay for domain name services using ELA. Domain names will exist as digital assets that can be resold.
 * There are over 900 million twitter handles as of today. A user may choose to get a unique handle that can be used throughout the elastos ecosystem and this needs to be paid using ELA. Again, these unique usernames are like digital assets that can resold to other people as well.
 * There are over 10,000 unique movies and over 2000 unique tv shows on netflix alone. Imagine creating 10,000 copies of each of the movies content creators want to sell on elastos platform. They would need to be paid with ELA for acquisition of UUIDs for them.
 * In order to utilize the storage service on the elastos platform to store data, this will have to be paid in ELA as well.
@@ -39,13 +39,13 @@ The inflation is there to also account for all the ELAs that may be lost due to 
 
 In addition to this, another reason there’s a 4% inflation also has to do with the fact that Elastos is an autonomous ecosystem that needs to keep on running. Bitcoin miners who decide to merge mine elastos are there for profit. There may be more than 6000 or even more than 10000 nodes running that help in the main ledger running autonomously with maximum security provided by the bitcoin network. It’s not only the elastos blockchain ledger that will be running autonomously but also the decentralized peer to peer network that will be running autonomously as well. In order to keep this wheel running for a long time, there needs to be miners for this as well who can provide supernodes as relays to transfer digital media content like video, music, games, etc. And these miners need to be rewarded as well.
 
-Another way to look at the elastos platform is to imagine it being a self sustaining ecosystem. Elastos is building a smart web. A simple example of this is a micro-website(without an ip address) that will be running completely peer to peer. These micro websites need to have domain names, storage service and any other services websites need. All of these services will be paid with ELA. One thing to keep in mind is that proceeds from domain name registrations, etc will be used to fund hard drives(such as IPFS), supernodes for relaying videos, music, etc. Everyone can provide these services and they’re all helping the ecosystem, so they’ll need to be awarded accordingly. This is a self running economy so there needs to be a currency with a healthy economic inflation that can provide a long term sustainment and an equal growth of the entire ecosystem as a whole.
+Another way to look at the elastos platform is to imagine it being a self sustaining ecosystem. Elastos is building a smart web. A simple example of this is a micro-website(without an ip address) that will be running completely peer to peer. These micro websites need to have domain names, storage service and any other services websites need. All of these services will be paid for with ELA. One thing to keep in mind is that proceeds from domain name registrations and etc., will be used to fund hard drives(such as IPFS), supernodes for relaying videos, music, etc. Everyone can provide these services and they’re all helping the ecosystem, so they’ll need to be awarded accordingly. This is a self running economy so there needs to be a currency with a healthy economic inflation that can provide a long term sustainment and an equal growth of the entire ecosystem as a whole.
 
 ---
 
-### Elastos platform has no gas fees unline other platforms
+### Elastos platform has no gas fees unlike other platforms
 
-On elastos platform, there are no gas fees. Different DApps can build their own sidechains to issue their own tokens for different purposes. It’s up to these sidechains where smart contracts will be run that are going to decide whether they want to charge gas for certain transactions. Elastos won’t be charging any gas fees of its own. However, the sidechains themselves may charge gas fees of their own to run smart contracts.
+On the elastos platform, there are no gas fees. Different DApps can build their own sidechains to issue their own tokens for different purposes. It’s up to these sidechains where smart contracts will be run that are going to decide whether they want to charge gas for certain transactions. Elastos won’t be charging any gas fees of its own. However, the sidechains themselves may charge gas fees of their own to run smart contracts.
 
 --- 
 
